@@ -1,2 +1,6 @@
 # Projects-for-learning
 This repository has projects whose main aim is to learn and practice coding in Python, _coding becomes fun when we enjoy doing it_
+
+
+
+![Screenshot (115)](https://user-images.githubusercontent.com/86302851/221389796-420b79c6-c3eb-4d1c-b82c-4492be3233a2.png)
